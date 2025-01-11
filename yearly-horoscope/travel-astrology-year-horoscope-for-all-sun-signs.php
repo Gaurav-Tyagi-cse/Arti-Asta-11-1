@@ -500,7 +500,6 @@
 				 </picture>
 			  </a>
 
-
 		   </div>
 			 </div>
   </div>
