@@ -72,8 +72,7 @@
                                         and Conditions</a></li>
                                 <li><a href="/home/cms/refund-policy.php">Refund
                                         Policy</a></li>
-                                <li><a href="/home/cms/sitemap.php">Site
-                                        Map</a></li>
+                                
                                 <li><a
                                         href="/about-ask-ganesha.php">About
                                         Us</a></li>
@@ -83,7 +82,7 @@
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <div class="list bot-right-txt">
-                            <p>© Copyright 2024 Aarti astha. All rights reserved Designed and Maintained by <a href="https://www.bhoomitechzone.in/" style="color: white;">BTPL</a></p>
+                            <p>© Copyright 2025 Aarti astha. All rights reserved Designed and Maintained by <a href="https://www.bhoomitechzone.in/" style="color: white;">BTPL</a></p>
                         </div>
                      </div>
                   </div>
@@ -106,7 +105,7 @@
 				      <span></span>
 			      </a--->
                <div class="trusted-icons">
-                 <img src=".images/icon-topper.png" alt="Icon Topper"/>    
+                 <img src="/images/icon-topper.png" alt="Icon Topper"/>    
                </div>  
 		   </div>
 		</div>
