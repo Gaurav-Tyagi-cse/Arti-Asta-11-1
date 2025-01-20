@@ -385,25 +385,25 @@
 								 </li>
 
 								 <li>
-									<a href="javascript: void(0)">Puja &amp; Homams</a>
+								<a href="javascript: void(0)">Puja &amp; Homams</a>
 									<div class="sub-menu super-sub">
-									   <a href="../puja-homam.php">All Pujas</a>
-									   <a href="../puja-homam/anushthans.php">Anushthans </a>
-									   <a href="../puja-homam/special-yagyas-homam.php">Special Yagyas</a>
-									   <a href="../puja-homam/special-rituals.php">Special Rituals</a>
-									   <a href="../puja-homam/love.php">Love / Romance</a>
-									   <a href="../puja-homam/marriage.php">Marriage</a>
-									   <a href="../puja-homam/career.php">Career & Finance</a>
-									   <a href="../puja-homam/business.php">Money &amp; Business</a>
-									   <a href="../puja-homam/health.php">Good Health</a>
-									   <a href="../puja-homam/education.php">Good Education</a>
-									   <a href="../puja-homam/kids.php">Child Related Pujas</a>
-									   <a href="../puja-homam/upliftment.php">Over All Upliftment</a>
-									   <a href="../puja-homam/overcome-enemies.php">Overcome Enemies</a>
-									   <a href="../puja-homam/rid-evil-effects.php">Get Rid Of Evil Effects</a>
-									   <a href="../puja-homam/deity.php">Deity Pujas</a>
-									   <a href="../puja-homam/special-puja.php">Special Pujas</a>
-									   <a href="../puja-homam/planet.php">Planet (Grah) Pujas</a>
+									   <a href="../puja-homam.php ">All Pujas</a>
+									   <a href="../puja-homam.php ">Anushthans </a>
+									   <a href="../puja-homam.php ">Special Yagyas</a>
+									   <a href="../puja-homam.php ">Special Rituals</a>
+									   <a href="../puja-homam/love.php ">Love / Romance</a>
+									   <a href="../puja-homam/marriage.php ">Marriage</a>
+									   <a href="../puja-homam/career.php ">Career & Finance</a>
+									   <a href="../puja-homam/business.php ">Money &amp; Business</a>
+									   <a href="../puja-homam/health.php ">Good Health</a>
+									   <a href="../puja-homam/education.php ">Good Education</a>
+									   <a href="../puja-homam.php ">Child Related Pujas</a>
+									   <a href="../puja-homam.php ">Over All Upliftment</a>
+									   <a href="../puja-homam.php ">Overcome Enemies</a>
+									   <a href="../puja-homam.php ">Get Rid Of Evil Effects</a>
+									   <a href="../puja-homam.php ">Deity Pujas</a>
+									   <a href="../puja-homam.php ">Special Pujas</a>
+									   <a href="../puja-homam.php ">Planet (Grah) Pujas</a>
 									   
 									</div>
 								 </li>
