@@ -21,16 +21,16 @@
       <meta charset="utf=8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <link rel="stylesheet" type="text/css"
-						href="https://assets.askganesha.com/a0/5bc74f009e3a65e70c09bfdf0603e5.css" />
+						href="../a0/5bc74f009e3a65e70c09bfdf0603e5.css" />
       <meta name="google-signin-client_id" content="773338101007-j3cua8uu5grdjseekdmd3t2bki8f0l8k.apps.googleusercontent.com">
 
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Vidaloka&display=swap" rel="stylesheet">
 
-      <title>Professional Tarot Card Readings  | Expert Tarot Consultants</title>
-<meta NAME="Keywords" content="">
-<meta NAME="Description" CONTENT="Connect our skilled tarot card readers, for insightful and personalized tarot consultations. Gain clarity and guidance on life's important decisions with expert readings tailored to your needs. Book your session today with our experienced consultants and uncover the wisdom that the cards have in store for you.">
+      <title>Free Sade Sati analysis, Free Check of Saturn's Transit over your moon sign, Free Report on Sade Sati or Dhaiya of Saturn</title>
+<meta NAME="Keywords" content="Free sade sati report, saade sati of Saturn, Shani Dhaiya, Shani Saade Saati Analysis, Free Report">
+<meta NAME="Description" CONTENT="Are you running or going to run under Sade Sati of Saturn, Check it free">
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-<link rel="canonical" href="https://www.askganesha.com/report/tarot-report" >
+<link rel="canonical" href="./sade-sati.php" >
       
       <META name="verify-v1" content="4Nx1OheUhem3T+IkI8FRMpsNoISvrp09iqzSniFvyHM=" >
       
@@ -83,7 +83,7 @@
 						<div class="col-lg-3 col-md-2">
 							<div class="ask-logo">
 								<a href="/">
-									<img src="https://www.askganesha.com/home/logo/1"  alt="askganesha"/>
+									<img src="../Arti-Asta img/AARTI LOGO.webp" style="width: 80px;" alt="Arti-Asta"/>
 								</a>
 							</div>
 						</div>
@@ -92,7 +92,7 @@
 						  <nav class="navigation" id="top-bar-links">
 							<ul class="menu-bar-1">
 							  <li>
-	<a href="/love-predictions">
+	<a href="../love-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -114,7 +114,7 @@
 	</a>
  </li>
  <li>
-	<a href="/marriage-predictions">
+	<a href="../marriage-predictions.php">
 		<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <g transform="translate(0 -270.54)">
   <g transform="matrix(.84782 0 0 .84782 -139.61 224.15)">
@@ -138,7 +138,7 @@
 	</a>
  </li>
  <li>
-	<a href="/career-predictions">
+	<a href="../career-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -154,7 +154,7 @@
 	</a>
  </li>
  <li>
-	<a href="/finance-predictions">
+	<a href="../finance-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -169,7 +169,7 @@
 	<span>Finance</span></a>
  </li>
  <li>
-	<a href="/health-predictions">
+	<a href="../health-predictions..php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -187,7 +187,7 @@
 	<span>Health</span></a>
  </li>
  <li>
-	<a href="/travel-predictions">
+	<a href="../travel-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -217,7 +217,7 @@
 	<span>Travel</span></a>
  </li>
  <li>
-	<a href="/education-predictions">
+	<a href="../education-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -229,7 +229,7 @@
 	<span>Education</span></a>
  </li>
  <li>
-	<a href="/child-predictions">
+	<a href="../child-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -241,7 +241,7 @@
 	<span>Child</span></a>
  </li>
  <li>
-	<a href="/buy-sell-predictions">
+	<a href="../buy-sell-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
  <g transform="translate(0 -270.54)">
@@ -259,7 +259,7 @@
 	<span>Buy/Sell</span></a>
  </li>
  <li>
-	<a href="/remedial-predictions">
+	<a href="../remedial-predictions.php">
 	<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <g transform="translate(0 -270.54)">
   <g transform="matrix(.84782 0 0 .84782 -139.61 224.15)">
@@ -297,7 +297,7 @@
 						<div class="col-lg-2 logo-as">
 							<div class="ask-logo">
 								<a href="/">
-									<img src="https://www.askganesha.com/home/logo/1"  alt="askganesha"/>
+									<img src="../Arti-Asta img/AARTI LOGO.webp" style="width: 53px;"  alt="Arti-Asta"/>
 								</a>
 							</div>
 						</div>
@@ -308,102 +308,102 @@
 								 <li>
 									<a href="javascript: void(0)"><span>2025</span></a>
 									<div class="sub-menu super-sub">
-									   <a href="/yearly-horoscope/outlook">Outlook</a>
-									   <a href="/yearly-horoscope/family-and-social-life-year-horoscope-for-all-sun-signs">Family and Social Life</a>
-									   <a href="/yearly-horoscope/love-marriage-relationships-year-horoscope-for-all-sun-signs">Love Relationships</a>
-									   <a href="/yearly-horoscope/career-and-profession-year-horoscope-for-all-sun-signs">Profession</a>
-									   <a href="/yearly-horoscope/health-and-fitness-year-horoscope-for-all-sun-signs">Health</a>
-									   <a href="/yearly-horoscope/travel-astrology-year-horoscope-for-all-sun-signs">Travel</a>
+									   <a href="../yearly-horoscope/outlook.php">Outlook</a>
+									   <a href="../yearly-horoscope/family-and-social-life-year-horoscope-for-all-sun-signs.php">Family and Social Life</a>
+									   <a href="../yearly-horoscope/love-marriage-relationships-year-horoscope-for-all-sun-signs.php">Love Relationships</a>
+									   <a href="../yearly-horoscope/career-and-profession-year-horoscope-for-all-sun-signs.php">Profession</a>
+									   <a href="../yearly-horoscope/health-and-fitness-year-horoscope-for-all-sun-signs.php">Health</a>
+									   <a href="../yearly-horoscope/travel-astrology-year-horoscope-for-all-sun-signs.php">Travel</a>
 									</div>
 								 </li>
 
 								 <li>
 									<a href="javascript: void(0)">Free Astrology</a>
 									<div class="sub-menu super-sub">
-									   <a href="/free-astrology/free-horoscope">Free Horoscope</a>
-									   <a href="/free-astrology/kundli-milan">Gun (Kundli) Milan</a>
-									   <a href="/free-astrology/manglik-dosh">Manglik Dosha</a>
-									   <a href="/free-astrology/kal-sarp-dosha">KalSarpa Dosh</a>
-									   <a href="/free-astrology/sade-sati">Sade-Saati Check</a>
-									   <a href="/sun-sign-horoscope/daily-horoscope">Daily Horoscope</a>
-									   <a href="/sun-sign-horoscope/weekly-horoscope">Weekly Horoscope</a>
-									   <a href="/sun-sign-horoscope/monthly-horoscope">Monthly Horoscope</a>
-									   <a href="/free-astrology/matchmaking">Free Love Compatibility</a>
-									   <a href="/celebrities">Celebrity Matching</a>
-									   <a href="/numerology">Numerology Report</a>
-									   <a href="/numerology/free-number-compatibility">Numerology Compatibility</a>
-									   <a href="/free-astrology/default-free">More Free Services</a>
+									   <a href="./free-horoscope.php">Free Horoscope</a>
+									   <a href="./kundli-milan.php">Gun (Kundli) Milan</a>
+									   <a href="./manglik-dosh.php">Manglik Dosha</a>
+									   <a href="./kal-sarp-dosha.php">KalSarpa Dosh</a>
+									   <a href="./sade-sati.php">Sade-Saati Check</a>
+									   <a href="../sun-sign-horoscope/daily-horoscope.php">Daily Horoscope</a>
+									   <a href="../sun-sign-horoscope/weekly-horoscope.php">Weekly Horoscope</a>
+									   <a href="../sun-sign-horoscope/monthly-horoscope.php">Monthly Horoscope</a>
+									   <a href="./matchmaking.php">Free Love Compatibility</a>
+									   <a href="../celebrities.php">Celebrity Matching</a>
+									   <a href="../numerology.php">Numerology Report</a>
+									   <a href="../numerology/free-number-compatibility.php">Numerology Compatibility</a>
+									   <a href="./default-free.php">More Free Services</a>
 									</div>
 								 </li>
 
 								 <li>
 									<a href="javascript: void(0)">Personalized Reports</a>
 									<div class="sub-menu super-sub">
-									   <a href="/ask-a-question">Ask A Question</a>
-									   <a href="/report/horoscope-matching-report">Horoscope Matching Report</a>
-									   <a href="/report/birth-time-rectification">Birth Time Correction</a>
-									   <a href="/report/marriage-report">Marriage Report</a>
-									   <a href="/report/career-report">Career Report</a>
-									   <a href="/report/life-predictions-report">Complete Life Predictions</a>
-									   <a href="/report/year-ahead-report">Year Ahead 2025 Report</a>
-									   <a href="/twelve-month-astrology">12 Month Reports</a>
-									   <a href="/report/remedial-consultancy-report">Remedial Consultancy</a>
-									   <a href="/report/gem-consultancy-report">Gemstone Consultancy</a>
-									   <a href="/report/mahurat-report">Muhurat Report</a>
-									   <a href="/report/tarot-report">Tarot Report</a>
-									   <a href="/report/talk-to-astrologer">Talk To Astrologer</a>
-									   <a href="/more-reports">More Reports</a>
+									   <a href="../ask-a-question.php">Ask A Question</a>
+									   <a href="../report/horoscope-matching-report.php">Horoscope Matching Report</a>
+									   <a href="../report/birth-time-rectification.php">Birth Time Correction</a>
+									   <a href="../report/marriage-report.php">Marriage Report</a>
+									   <a href="../report/career-report.php">Career Report</a>
+									   <a href="../report/life-predictions-report.php">Complete Life Predictions</a>
+									   <a href="../report/year-ahead-report.php">Year Ahead 2025 Report</a>
+									   <a href="/twelve-month-astrology.php">12 Month Reports</a>
+									   <a href="../report/remedial-consultancy-report.php">Remedial Consultancy</a>
+									   <a href="../report/gem-consultancy-report.php">Gemstone Consultancy</a>
+									   <a href="../report/mahurat-report.php">Muhurat Report</a>
+									   <a href="../report/tarot-report.php">Tarot Report</a>
+									   <a href="../report/talk-to-astrologer.php">Talk To Astrologer</a>
+									   <a href="../more-reports.php">More Reports</a>
 									</div>
 								 </li>
 
 								 <li>
 									<a href="javascript: void(0)">Sun Signs Horoscopes</a>
 									<div class="sub-menu super-sub sun-sign-fig">
-									   <a href="/sun-sign-horoscope/aries">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/aries.png" alt="Aries"/></figure>Aries (Mesha)</a>
-									   <a href="/sun-sign-horoscope/taurus">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/tauras.png" alt="Tauras"/></figure>Taurus (Vrishabh)</a>
-									   <a href="/sun-sign-horoscope/gemini">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/gemini.png" alt="Gemini"/></figure>Gemini (Mithun)</a>
-									   <a href="/sun-sign-horoscope/cancer">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/cancer.png" alt="Cancer"/></figure>Cancer (Karka)</a>
-									   <a href="/sun-sign-horoscope/leo">
-										<figure class="sunshine-blok"><img src="images/sun-sign-horoscope/leo.png" alt="Leo"/></figure>Leo (Simha)</a>
-									   <a href="/sun-sign-horoscope/virgo">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/virgo.png" alt="Virgo"/></figure>Virgo (Kanya)</a>
-									   <a href="/sun-sign-horoscope/libra">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/libra.png" alt="Libra"/></figure>Libra (Tula)</a>
-									   <a href="/sun-sign-horoscope/scorpio">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/scorpio.png" alt="Scorpio"/></figure>Scorpio (Vrishchik)</a>
-									   <a href="/sun-sign-horoscope/sagittarius"><figure class="sunshine-blok"><img src="images/sun-sign-horoscope/sagittarius.png" alt="Sagittarius"/></figure>Sagittarius (Dhanu)</a>
-									   <a href="/sun-sign-horoscope/capricorn"><figure class="sunshine-blok"><img src="images/sun-sign-horoscope/capricorn.png" alt="Capricorn"/></figure>Capricorn (Makar)</a>
-									   <a href="/sun-sign-horoscope/aquarius">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/aquarius.png" alt="Aquarius"/></figure>Aquarius (Kumbh)</a>
-									   <a href="/sun-sign-horoscope/pisces">
-									   <figure class="sunshine-blok"><img src="images/sun-sign-horoscope/pisces.png" alt="Pisces"/></figure>Pisces (Meen)</a>
+									   <a href="../sun-sign-horoscope/aries.php">
+									   <figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/aries.png" alt="Aries"/></figure>Aries (Mesha)</a>
+									   <a href="../sun-sign-horoscope/taurus.php">
+									   <figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/tauras.png" alt="Tauras"/></figure>Taurus (Vrishabh)</a>
+									   <a href="../sun-sign-horoscope/gemini.php">
+									   <figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/gemini.png" alt="Gemini"/></figure>Gemini (Mithun)</a>
+									   <a href="../sun-sign-horoscope/cancer.php">
+									   <figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/cancer.png" alt="Cancer"/></figure>Cancer (Karka)</a>
+									   <a href="../sun-sign-horoscope/leo.php">
+										<figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/leo.png" alt="Leo"/></figure>Leo (Simha)</a>
+									   <a href="../sun-sign-horoscope/virgo.php">
+									   <figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/virgo.png" alt="Virgo"/></figure>Virgo (Kanya)</a>
+									   <a href="../sun-sign-horoscope/libra.php">
+									   <figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/libra.png" alt="Libra"/></figure>Libra (Tula)</a>
+									   <a href="../sun-sign-horoscope/scorpio.php">
+									   <figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/scorpio.png" alt="Scorpio"/></figure>Scorpio (Vrishchik)</a>
+									   <a href="../sun-sign-horoscope/sagittarius.php"><figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/sagittarius.png" alt="Sagittarius"/></figure>Sagittarius (Dhanu)</a>
+									   <a href="../sun-sign-horoscope/capricorn"><figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/capricorn.png" alt="Capricorn"/></figure>Capricorn (Makar)</a>
+									   <a href="../sun-sign-horoscope/aquarius.php">
+									   <figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/aquarius.png" alt="Aquarius"/></figure>Aquarius (Kumbh)</a>
+									   <a href="../sun-sign-horoscope/pisces.php">
+									   <figure class="sunshine-blok"><img src="../images/sun-sign-horoscope/pisces.png" alt="Pisces"/></figure>Pisces (Meen)</a>
 									</div>
 								 </li>
 
 								 <li>
 									<a href="javascript: void(0)">Puja &amp; Homams</a>
 									<div class="sub-menu super-sub">
-									   <a href="/puja-homam">All Pujas</a>
-									   <a href="/puja-homam/anushthans">Anushthans </a>
-									   <a href="/puja-homam/special-yagyas-homam">Special Yagyas</a>
-									   <a href="/puja-homam/special-rituals">Special Rituals</a>
-									   <a href="/puja-homam/love">Love / Romance</a>
-									   <a href="/puja-homam/marriage">Marriage</a>
-									   <a href="/puja-homam/career">Career & Finance</a>
-									   <a href="/puja-homam/business">Money &amp; Business</a>
-									   <a href="/puja-homam/health">Good Health</a>
-									   <a href="/puja-homam/education">Good Education</a>
-									   <a href="/puja-homam/kids">Child Related Pujas</a>
-									   <a href="/puja-homam/upliftment">Over All Upliftment</a>
-									   <a href="/puja-homam/overcome-enemies">Overcome Enemies</a>
-									   <a href="/puja-homam/rid-evil-effects">Get Rid Of Evil Effects</a>
-									   <a href="/puja-homam/deity">Deity Pujas</a>
-									   <a href="/puja-homam/special-puja">Special Pujas</a>
-									   <a href="/puja-homam/planet">Planet (Grah) Pujas</a>
+									   <a href="../puja-homam.php">All Pujas</a>
+									   <a href="../puja-homam/anushthans.php">Anushthans </a>
+									   <a href="../puja-homam/special-yagyas-homam.php">Special Yagyas</a>
+									   <a href="../puja-homam/special-rituals.php">Special Rituals</a>
+									   <a href="../puja-homam/love.php">Love / Romance</a>
+									   <a href="../puja-homam/marriage.php">Marriage</a>
+									   <a href="../puja-homam/career.php">Career & Finance</a>
+									   <a href="../puja-homam/business.php">Money &amp; Business</a>
+									   <a href="../puja-homam/health.php">Good Health</a>
+									   <a href="../puja-homam/education.php">Good Education</a>
+									   <a href="../puja-homam/kids.php">Child Related Pujas</a>
+									   <a href="../puja-homam/upliftment.php">Over All Upliftment</a>
+									   <a href="../puja-homam/overcome-enemies.php">Overcome Enemies</a>
+									   <a href="../puja-homam/rid-evil-effects.php">Get Rid Of Evil Effects</a>
+									   <a href="../puja-homam/deity.php">Deity Pujas</a>
+									   <a href="../puja-homam/special-puja.php">Special Pujas</a>
+									   <a href="../puja-homam/planet.php">Planet (Grah) Pujas</a>
 									   
 									</div>
 								 </li>
@@ -411,44 +411,44 @@
 								 <li>
 									<a href="javascript: void(0)">Remedies</a>
 									<div class="sub-menu super-sub">
-									   <a href="/free-astrology/free-astrology-remedy-for-you">Today's Remedy</a>
-									   <a href="/astrology-remedies">Free Remedies</a>
-									   <a href="/astrology-remedies/feeding-cow">Feed A Cow</a>
-									   <a href="/gem-stones">Gemstones</a>
-									   <a href="/yantra">Yantras</a>
-									   <a href="/mantra">Mantras</a>
-									   <a href="/report/remedial-consultancy-report">Remedial Report</a>
-									   <a href="/yantra/energized-incense-sticks-120">Energised Incense Sticks</a>
-									   <a href="/report/schedule-for-remedies">Schedule for Remedies</a>
+									   <a href="./free-astrology-remedy-for-you.php">Today's Remedy</a>
+									   <a href="../astrology-remedies.php">Free Remedies</a>
+									   <a href="../astrology-remedies/feeding-cow.php">Feed A Cow</a>
+									   <a href="../gem-stones.php">Gemstones</a>
+									   <a href="../yantra.php">Yantras</a>
+									   <a href="../mantra.php">Mantras</a>
+									   <a href="../report/remedial-consultancy-report.php">Remedial Report</a>
+									   <a href="../yantra/energized-incense-sticks-120.php">Energised Incense Sticks</a>
+									   <a href="../report/schedule-for-remedies.php">Schedule for Remedies</a>
 									   
-									   <a href="/easy-pay">Easy Pay</a>
+									   <a href="../easy-pay.php">Easy Pay</a>
 									</div>
 								 </li>
 
 								 <li class="contacts">
-									<a href="/contact">Contact Us</a>
+									<a href="../contact.php">Contact Us</a>
 								</li>
 
 								 <li>
 									<a href="javascript: void(0)">Editorial</a>
 									<div class="sub-menu super-sub">
-									   <a href="/blog">Blog</a>
-									   <a href="/articles">Articles</a>
-									   <a href="/festivals">Festivals</a>
-									   <a href="/wallpapers">Deity Wallpapers</a>
-									   <a href="/remedial-wallpapers">Remedial Wallpapers</a>
-									   <a href="/vedic-stories">Vedic Stories</a>
-									   <a href="/deities">Deities</a>
-									   <a href="/aarties">Aartis</a>
-									   <a href="/articles/fastings">Fasting</a>
-                                       <a href="/free-astrology/free-daily-quotes">Today's Quote</a>
+									   <a href="../blog.php">Blog</a>
+									   <a href="../articles.php">Articles</a>
+									   <a href="../festivals.php">Festivals</a>
+									   <a href="../wallpapers.php">Deity Wallpapers</a>
+									   <a href="../remedial-wallpapers.php">Remedial Wallpapers</a>
+									   <a href="../vedic-stories.php">Vedic Stories</a>
+									   <a href="../deities.php">Deities</a>
+									   <a href="../aarties.php">Aartis</a>
+									   <a href="../articles/fastings.php">Fasting</a>
+                                       <a href="../free-astrology/free-daily-quotes.php">Today's Quote</a>
 									</div>
 								 </li>
                                  <li class="logins">
                                   <a href="javascript:void(0);" onclick="loginForm(); $.sidr('close', 'sidr-left');">Login</a>
                                  </li>
 								 <li class="carts">
-									<a href="/cart">
+									<a href="../cart.php">
 										<span class="cart-box">
 											<i class="fas fa-shopping-cart"></i>
 											<span class="mobile-cart">Cart :&nbsp; </span>
@@ -462,10 +462,6 @@
 				  </div>
 			   </div>
 			</div>
-      
-      
-
-
 	
 
 
@@ -473,32 +469,32 @@
   <div class="slider-div">
 	 <div class="main-slidbar">
 				   <div>
-			  <a href="https://www.askganesha.com/blessings/free-yearly-horoscope-ebook" >
-				 <!-- <img src="https://assets.askganesha.com/11/19caa6bf0244428bc1c2bed31bf7a2.jpg"/> -->
+			  <a href="# " >
+				 <!-- <img src="../11/19caa6bf0244428bc1c2bed31bf7a2.jpg"/> -->
 				 <picture>
-					<source media="(min-width: 650px)" srcset="https://assets.askganesha.com/11/19caa6bf0244428bc1c2bed31bf7a2.jpg">
-										   <source media="(max-width: 649px)" srcset="https://assets.askganesha.com/84/c6b77a0566b8387bd372a228a61a1a.jpg">
-										<img src="https://assets.askganesha.com/11/19caa6bf0244428bc1c2bed31bf7a2.jpg">
+					<source media="(min-width: 650px)" srcset="../Arti-Asta img/free-astrology/banner3.jpg">
+										   <source media="(max-width: 649px)" srcset="../Arti-Asta img/free-astrology/banner3.jpg">
+										<img src="../Arti-Asta img/free-astrology/banner3.jpg">
 				 </picture>
 			  </a>
 		   </div>
 				   <div>
-			  <a href="https://www.askganesha.com/blessings/rituals-checklist" >
-				 <!-- <img src="https://assets.askganesha.com/f2/b767c2fde7922347dbb5ff6e00630b.jpg"/> -->
+			  <a href="#" >
+				 <!-- <img src="../f2/b767c2fde7922347dbb5ff6e00630b.jpg"/> -->
 				 <picture>
-					<source media="(min-width: 650px)" srcset="https://assets.askganesha.com/f2/b767c2fde7922347dbb5ff6e00630b.jpg">
-										   <source media="(max-width: 649px)" srcset="https://assets.askganesha.com/66/da5ee135f732f84a35566f8ce00518.jpg">
-										<img src="https://assets.askganesha.com/f2/b767c2fde7922347dbb5ff6e00630b.jpg">
+					<source media="(min-width: 650px)" srcset="../Arti-Asta img/free-astrology/banner2.jpg">
+										   <source media="(max-width: 649px)" srcset="../Arti-Asta img/free-astrology/banner2.jpg">
+										<img src="../Arti-Asta img/free-astrology/banner2.jpg">
 				 </picture>
 			  </a>
 		   </div>
 				   <div>
-			  <a href="https://www.askganesha.com/report/year-ahead-report" >
-				 <!-- <img src="https://assets.askganesha.com/af/bd9b66cd9eb744eec8195049d62735.jpg"/> -->
+			  <a href="#" >
+				 <!-- <img src="../af/bd9b66cd9eb744eec8195049d62735.jpg"/> -->
 				 <picture>
-					<source media="(min-width: 650px)" srcset="https://assets.askganesha.com/af/bd9b66cd9eb744eec8195049d62735.jpg">
-										   <source media="(max-width: 649px)" srcset="https://assets.askganesha.com/51/eb1682bf8373551454643fe76d7592.jpg">
-										<img src="https://assets.askganesha.com/af/bd9b66cd9eb744eec8195049d62735.jpg">
+					<source media="(min-width: 650px)" srcset="../Arti-Asta img/free-astrology/banner.jpg">
+										   <source media="(max-width: 649px)" srcset="../Arti-Asta img/free-astrology/banner.jpg">
+										<img src="../Arti-Asta img/free-astrology/banner.jpg">
 				 </picture>
 			  </a>
 		   </div>
@@ -537,7 +533,7 @@
 					
 						<div class="col-lg-3 col-md-12">
 							<div class="add-puja-imgs">
-								<img src="https://assets.askganesha.com/images/innerpage/report/tarot-card-consultation.jpg" alt="Tarot Consultation">
+								<img src="../images/innerpage/report/tarot-card-consultation.jpg" alt="Tarot Consultation">
 							</div>
 						</div>
 						
@@ -555,7 +551,7 @@
 		<li>All data is kept confidential.</li>
         <li>
             <div class="offer-bnr review">
-                <img src="https://assets.askganesha.com/images/star-fiv.png" alt="Star Fiv"/>
+                <img src="../images/star-fiv.png" alt="Star Fiv"/>
                 <span><a href="#dv-reviews">Read Customer Reviews</a></span>
             </div>
         </li>
@@ -655,8 +651,8 @@
 							</div>
 
 							<div class="logos-group">
-                                <img src="https://assets.askganesha.com/images/credibility-1.jpg" alt="Credibility 1">
-                                <img src="https://assets.askganesha.com/images/credibility-2.jpg" alt="Credibility 2">
+                                <img src="../images/credibility-1.jpg" alt="Credibility 1">
+                                <img src="../images/credibility-2.jpg" alt="Credibility 2">
                             </div>
 						</div>
 				</div>
@@ -690,7 +686,7 @@
 </section>
 
 <section class="fixed-whatsapp">
-   <a class="fix-whatsapp-icon" href="https://api.whatsapp.com/send?phone=919818313151">
+   <a class="fix-whatsapp-icon" href="https://api.whatsapp.com/send?phone=918505965691">
       <!---img src="images/whatsapp-me.png" /--->
       <svg id="whatsapp-ico" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 383.22 383.26">
 <path class="cls-1" d="M230.38,49a217,217,0,0,1,25.92.22c1.05.06,2.12.06,3.17.17,4.95.51,6,.75,9.26,1.25,43,6.68,80.35,24.53,110.32,56.61C424.36,155.78,441.1,213,428.2,277.84c-17.05,85.6-90.93,143.79-172.33,150.31-36.41,2.91-70.82-4.42-103.18-21.34a5.86,5.86,0,0,0-4.58-.61q-49.44,13-98.91,25.8v-1.49c.22-.27.56-.51.65-.81q13-47.07,25.95-94.14a5,5,0,0,0-.8-4.17,187.23,187.23,0,0,1-23-71.94c-3.48-32.44.13-64.1,13.34-93.92,29-65.39,80.12-102.39,150.07-114.45,3.33-.66,6.88-1.31,10.44-1.74C227.18,49.18,228.46,49.1,230.38,49ZM95.22,386.2c19.15-5,37.57-9.71,55.95-14.58a8.53,8.53,0,0,1,7.25,1c41.44,24.66,85.38,30.51,131.41,15.87C373.19,362,419,274.88,393.51,192.18a158.71,158.71,0,0,0-175.37-110c-47.21,7.18-84,31.28-109.78,71.39C87,186.85,79.08,223.42,85,262.75c3.42,22.62,11.88,43.3,24.37,62.38a6.76,6.76,0,0,1,1,6.18c-2.22,7.5-4.29,15.06-6.37,22.61C101.15,364.43,98.29,375,95.22,386.2Z" transform="translate(-49.2 -48.75)"/>
@@ -707,11 +703,11 @@
                 <div class="col-lg-8">
                     <div class="info-div">
                         <ul class="list">
-                            <li><span><i class="fas fa-envelope"></i></span>info@askganesha.com</li>
-                            <li><a href="tel:09818313151"><span><i class="fas fa-phone-volume"></i></span>+91 -
-                                    9818313151</a>
+                            <li><span><i class="fas fa-envelope"></i></span>aartiastha94com@gmail.com</li>
+                            <li><a href="tel:08505965691"><span><i class="fas fa-phone-volume"></i></span>+91 -
+                                    8505965691</a>
                             </li>
-                            <li><a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=919818313151"
+                            <li><a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=918505965691"
                                     target="blank"><img src="images/whatsapp-me.png"  /></a>
                             </li>
                         </ul>
@@ -721,15 +717,15 @@
                 <div class="col-lg-4">
                     <div class="social-div">
                         <ul class="list">
-                            <li><a href="https://www.facebook.com/askganesha" target="blank"><span><i
+                            <li><a href="https://www.facebook.com" target="blank"><span><i
                                             class="fab fa-facebook-f"></i></span></a></li>
-                            <li><a href="https://in.pinterest.com/askganesha" target="blank"><span><i
+                            <li><a href="https://in.pinterest.com" target="blank"><span><i
                                             class="fab fa-pinterest-p"></i></span></a></li>
-                            <li><a href="https://twitter.com/askganesha" target="blank"><span><i
+                            <li><a href="https://twitter.com" target="blank"><span><i
                                             class="fab fa-twitter"></i></span></a></li>
-                            <li><a href="https://www.youtube.com/user/accurateastrologers" target="blank"><span><i
+                            <li><a href="https://www.youtube.com" target="blank"><span><i
                                             class="fab fa-youtube"></i></span></a></li>
-                            <li><a href="https://www.instagram.com/askganeshaa" target="blank"><span><i
+                            <li><a href="https://www.instagram.com" target="blank"><span><i
                                             class="fab fa-instagram"></i></span></a></li>
                         </ul>
                     </div>
@@ -753,25 +749,25 @@
                     <div class="col-md-8 col-sm-12">
                         <div class="bot-txt">
                             <ul class="list bott-box">
-                                <li><a href="/home/cms/privacy-policy">Privacy</a>
+                                <li><a href="../home/cms/privacy-policy.php">Privacy</a>
                                 </li>
                                 <li><a
-                                        href="/home/cms/terms-other-policies">Terms
+                                        href="../home/cms/terms-other-policies.php">Terms
                                         and Conditions</a></li>
-                                <li><a href="/home/cms/refund-policy">Refund
+                                <li><a href="../home/cms/refund-policy.php">Refund
                                         Policy</a></li>
-                                <li><a href="/home/cms/sitemap">Site
+                                <li><a href="../home/cms/sitemap.php">Site
                                         Map</a></li>
                                 <li><a
-                                        href="/about-ask-ganesha">About
+                                        href="../about-ask-ganesha.php">About
                                         Us</a></li>
-                                <li><a href="/contact">Contact Us</a></li>
+                                <li><a href="../contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <div class="list bot-right-txt">
-                            <p>©2001-2024 Askganesha.com. All rights reserved</p>
+                            <p>© Copyright 2024 Aarti astha. All rights reserved Designed and Maintained by <a href="https://www.bhoomitechzone.in/" style="color: white;">BTPL</a></p>
                         </div>
                      </div>
                   </div>
@@ -787,14 +783,14 @@
                </a>
 			   <div class="ask-logo">
                <a href="/">
-						<img src="https://www.askganesha.com/home/logo/1"  alt="Logo" />
+						<img src="../Arti-Asta img/AARTI LOGO.webp" style="width: 60px;" alt="Logo" />
 					</a>
 				</div>
 			      <!---a id="a-right-menu" href="javascript:void(0);">
 				      <span></span>
 			      </a--->
                <div class="trusted-icons">
-                 <img src="https://assets.askganesha.com/images/icon-topper.png" alt="Icon Topper"/>    
+                 <img src="../images/icon-topper.png" alt="Icon Topper"/>    
                </div>  
 		   </div>
 		</div>
@@ -802,7 +798,7 @@
     
       <div id="google_translate_element">
           <div class="btn">
-            <img alt="Translate" src="https://assets.askganesha.com/images/translation.svg"> Translate
+            <img alt="Translate" src="../images/translation.svg"> Translate
           </div>
       </div>
 
